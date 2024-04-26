@@ -1,0 +1,114 @@
+first_name,last_name,company,title,industry,lead_status,phone,email
+John,Doe,XYZ Corp,Marketing Manager,Technology,open,123-456-7890,johndoe@gmail.com
+Alice,Smith,ABC Inc,CEO,Finance,closed converted,234-567-8901,alicesmith@abc inc.com
+Michael,Johnson,LMN Industries,Sales Director,Manufacturing,closed not converted,345-678-9012,michaeljohnson@lmn industries.com
+Emily,Brown,DEF Group,Marketing Specialist,Retail,working,456-789-0123,emilybrown@gmail.com
+Daniel,Lee,PQR Ltd,Product Manager,Technology,open,567-890-1234,daniellee@gmail.com
+Jessica,Wong,GHI Corp,HR Manager,Healthcare,closed converted,678-901-2345,jessicawong@gmail.com
+Christopher,Miller,JKL Inc,Sales Executive,Manufacturing,closed not converted,789-012-3456,christophermiller@jkl inc.com
+Sarah,Taylor,RST Enterprises,Marketing Coordinator,Technology,working,890-123-4567,sarahtaylor@gmail.com
+Matthew,Anderson,MNO Group,Accountant,Finance,open,901-234-5678,matthewanderson@mno group.com
+Olivia,Wilson,UVW Ltd,Software Engineer,Technology,closed converted,012-345-6789,oliviawilson@uvw ltd.com
+William,Martin,OPQ Corp,Project Manager,Manufacturing,closed not converted,123-456-7890,williammartin@gmail.com
+Emma,Thompson,HIJ Inc,Finance Director,Finance,working,234-567-8901,emmathompson@gmail.com
+David,Garcia,XYZ Corp,Sales Manager,Manufacturing,open,345-678-9012,davidgarcia@gmail.com
+Sophia,Martinez,ABC Inc,IT Specialist,Technology,closed converted,456-789-0123,sophiamartinez@gmail.com
+James,Lopez,DEF Group,Operations Manager,Retail,closed not converted,567-890-1234,jameslopez@gmail.com
+Nancy,Gonzalez,LMN Industries,Marketing Director,Healthcare,working,234-567-8901,nancygonzalez@gmail.com
+Robert,Hall,ABC Inc,Finance Manager,Finance,open,345-678-9012,roberthall@gmail.com
+Jennifer,Young,RST Enterprises,Software Developer,Technology,closed converted,456-789-0123,jenniferyoung@rst enterprises.com
+Charles,King,PQR Ltd,Sales Representative,Manufacturing,closed not converted,567-890-1234,charlesking@gmail.com
+Amanda,Scott,GHI Corp,IT Manager,Technology,working,678-901-2345,amandascott@gmail.com
+Joshua,Green,HIJ Inc,Marketing Director,Retail,open,789-012-3456,joshuagreen@gmail.com
+Apollo,Jones,Zeus Inc,Marketing Manager,Technology,open,123-456-7890,apollojones@gmail.com
+Athena,Williams,Hera Ltd,CEO,Finance,closed converted,234-567-8901,athenawilliams@gmail.com
+Hermes,Brown,Artemis Corp,Sales Director,Manufacturing,closed not converted,345-678-9012,hermesbrown@gmail.com
+Persephone,Johnson,Ares Industries,Marketing Specialist,Retail,working,456-789-0123,persephonejohnson@ares industries.com
+Dionysus,Lee,Athena Group,Product Manager,Technology,open,567-890-1234,dionysuslee@gmail.com
+Hephaestus,Wong,Hades Corp,HR Manager,Healthcare,closed converted,678-901-2345,hephaestuswong@gmail.com
+Aphrodite,Miller,Persephone Inc,Sales Executive,Manufacturing,closed not converted,789-012-3456,aphroditemiller@gmail.com
+Demeter,Taylor,Apollo Enterprises,Marketing Coordinator,Technology,working,890-123-4567,demetertaylor@gmail.com
+Hades,Anderson,Hermes Group,Accountant,Finance,open,901-234-5678,hadesanderson@hermes group.com
+Artemis,Wilson,Hephaestus Ltd,Software Engineer,Technology,closed converted,012-345-6789,artemiswilson@hephaestus ltd.com
+Zeus,Martin,Demeter Corp,Project Manager,Manufacturing,closed not converted,123-456-7890,zeusmartin@demeter corp.com
+Hera,Thompson,Aphrodite Inc,Finance Director,Finance,working,234-567-8901,herathompson@aphrodite inc.com
+Poseidon,Garcia,Athena Corp,Sales Manager,Manufacturing,open,345-678-9012,poseidongarcia@gmail.com
+Ares,Martinez,Dionysus Ltd,IT Specialist,Technology,closed converted,456-789-0123,aresmartinez@dionysus ltd.com
+Hestia,Lopez,Persephone Group,Operations Manager,Retail,closed not converted,567-890-1234,hestialopez@persephone group.com
+Achilles,Clark,Hermes Enterprises,Marketing Manager,Technology,open,678-901-2345,achillesclark@hermes enterprises.com
+Ariadne,Scott,Hades Ltd,CEO,Finance,closed converted,789-012-3456,ariadnescott@gmail.com
+Orpheus,Yang,Apollo Industries,Sales Director,Manufacturing,closed not converted,890-123-4567,orpheusyang@gmail.com
+Medusa,Hill,Athena Group,Product Manager,Technology,working,901-234-5678,medusahill@gmail.com
+Icarus,Ross,Hephaestus Corp,HR Manager,Healthcare,open,012-345-6789,icarusross@hephaestus corp.com
+Perseus,King,Artemis Ltd,Sales Executive,Manufacturing,closed converted,123-456-7890,perseusking@gmail.com
+Atalanta,Stewart,Aphrodite Inc,Marketing Coordinator,Technology,open,234-567-8901,atalantastewart@gmail.com
+Cerberus,Turner,Demeter Group,Accountant,Finance,closed converted,345-678-9012,cerberusturner@gmail.com
+Pegasus,Phillips,Zeus Corp,Software Engineer,Technology,closed not converted,456-789-0123,pegasusphillips@gmail.com
+Theseus,Campbell,Hera Ltd,Project Manager,Manufacturing,working,567-890-1234,theseuscampbell@gmail.com
+Pan,Evans,Ares Corp,Finance Director,Finance,open,678-901-2345,panevans@ares corp.com
+Athena,Simmons,Dionysus Ltd,Sales Manager,Manufacturing,closed converted,789-012-3456,athenasimmons@dionysus ltd.com
+Hermes,Reed,Persephone Group,IT Specialist,Technology,closed not converted,890-123-4567,hermesreed@persephone group.com
+Dionysus,Price,Hermes Enterprises,Operations Manager,Retail,working,901-234-5678,dionysusprice@gmail.com
+Aphrodite,Watson,Hades Ltd,Marketing Manager,Technology,open,012-345-6789,aphroditewatson@hades ltd.com
+Athena,Brooks,Apollo Industries,CEO,Finance,closed converted,123-456-7890,athenabrooks@gmail.com
+Hades,Kelly,Athena Corp,Sales Director,Manufacturing,closed not converted,234-567-8901,hadeskelly@gmail.com
+Persephone,Howard,Hephaestus Ltd,Marketing Specialist,Retail,working,345-678-9012,persephonehoward@hephaestus ltd.com
+Hermes,Wood,Demeter Group,Product Manager,Technology,open,456-789-0123,hermeswood@demeter group.com
+Aphrodite,Barnes,Ares Corp,HR Manager,Healthcare,closed converted,567-890-1234,aphroditebarnes@gmail.com
+Athena,Edwards,Artemis Ltd,Sales Executive,Manufacturing,closed not converted,678-901-2345,athenaedwards@artemis ltd.com
+Apollo,Ramirez,Aphrodite Inc,Marketing Coordinator,Technology,working,789-012-3456,apolloramirez@aphrodite inc.com
+Artemis,Fisher,Persephone Group,Accountant,Finance,open,890-123-4567,artemisfisher@gmail.com
+Hera,Jackson,Hermes Enterprises,Software Engineer,Technology,closed converted,901-234-5678,herajackson@hermes enterprises.com
+Zeus,White,Dionysus Ltd,Project Manager,Manufacturing,closed not converted,012-345-6789,zeuswhite@dionysus ltd.com
+Poseidon,Harris,Hades Corp,Finance Director,Finance,working,123-456-7890,poseidonharris@gmail.com
+Persephone,Martin,Athena Ltd,Sales Manager,Manufacturing,open,234-567-8901,persephonemartin@gmail.com
+Athena,Thompson,Hephaestus Group,IT Specialist,Technology,closed converted,345-678-9012,athenathompson@gmail.com
+Aphrodite,Garcia,Persephone Corp,Operations Manager,Retail,closed not converted,456-789-0123,aphroditegarcia@gmail.com
+Apollo,Martinez,Hermes Ltd,Marketing Manager,Technology,open,567-890-1234,apollomartinez@hermes ltd.com
+Ares,Robinson,Athena Industries,CEO,Finance,closed converted,678-901-2345,aresrobinson@gmail.com
+Artemis,Clark,Artemis Corp,Sales Director,Manufacturing,closed not converted,789-012-3456,artemisclark@artemis corp.com
+Hermes,Lewis,Aphrodite Inc,Marketing Specialist,Technology,working,890-123-4567,hermeslewis@gmail.com
+Athena,Lee,Persephone Group,Product Manager,Technology,open,901-234-5678,athenalee@gmail.com
+Hades,Walker,Hades Enterprises,HR Manager,Healthcare,closed converted,012-345-6789,hadeswalker@hades enterprises.com
+Aphrodite,Hall,Ares Corp,Sales Executive,Manufacturing,closed not converted,123-456-7890,aphroditehall@gmail.com
+Apollo,Young,Athena Ltd,Marketing Coordinator,Technology,working,234-567-8901,apolloyoung@gmail.com
+Melissa,Baker,JKL Inc,Account Manager,Manufacturing,closed converted,890-123-4567,melissabaker@jkl inc.com
+Kevin,Adams,OPQ Corp,Quality Assurance Analyst,Manufacturing,closed not converted,901-234-5678,kevinadams@opq corp.com
+Mary,Hill,UVW Ltd,Human Resources Director,Healthcare,working,012-345-6789,maryhill@uvw ltd.com
+Daniel,Carter,XYZ Corp,Business Analyst,Technology,open,123-456-7890,danielcarter@gmail.com
+Jessica,Evans,ABC Inc,Sales Representative,Finance,closed converted,234-567-8901,jessicaevans@abc inc.com
+Christopher,Kelly,DEF Group,Marketing Manager,Retail,closed not converted,345-678-9012,christopherkelly@def group.com
+Ashley,Rivera,RST Enterprises,Operations Director,Technology,working,456-789-0123,ashleyrivera@gmail.com
+John,Doe,XYZ Corp,Marketing Manager,Technology,open,123-456-7890,johndoe@gmail.com
+Alice,Smith,ABC Inc,CEO,Finance,closed converted,234-567-8901,alicesmith@gmail.com
+Michael,Johnson,LMN Industries,Sales Director,Manufacturing,closed not converted,345-678-9012,michaeljohnson@gmail.com
+Emily,Brown,DEF Group,Marketing Specialist,Retail,working,456-789-0123,emilybrown@gmail.com
+Daniel,Lee,PQR Ltd,Product Manager,Technology,open,567-890-1234,daniellee@pqr ltd.com
+Jessica,Wong,GHI Corp,HR Manager,Healthcare,closed converted,678-901-2345,jessicawong@ghi corp.com
+Christopher,Miller,JKL Inc,Sales Executive,Manufacturing,closed not converted,789-012-3456,christophermiller@gmail.com
+Sarah,Taylor,RST Enterprises,Marketing Coordinator,Technology,working,890-123-4567,sarahtaylor@rst enterprises.com
+Matthew,Anderson,MNO Group,Accountant,Finance,open,901-234-5678,matthewanderson@mno group.com
+Olivia,Wilson,UVW Ltd,Software Engineer,Technology,closed converted,012-345-6789,oliviawilson@uvw ltd.com
+William,Martin,OPQ Corp,Project Manager,Manufacturing,closed not converted,123-456-7890,williammartin@opq corp.com
+Emma,Thompson,HIJ Inc,Finance Director,Finance,working,234-567-8901,emmathompson@gmail.com
+David,Garcia,XYZ Corp,Sales Manager,Manufacturing,open,345-678-9012,davidgarcia@xyz corp.com
+Sophia,Martinez,ABC Inc,IT Specialist,Technology,closed converted,456-789-0123,sophiamartinez@gmail.com
+James,Lopez,DEF Group,Operations Manager,Retail,closed not converted,567-890-1234,jameslopez@def group.com
+Liam,Hall,UVW Ltd,Marketing Director,Technology,working,678-901-2345,liamhall@uvw ltd.com
+John,Doe,XYZ Corp,Marketing Manager,Technology,open,123-456-7890,johndoe@xyz corp.com
+Alice,Smith,ABC Inc,CEO,Finance,closed converted,234-567-8901,alicesmith@gmail.com
+Michael,Johnson,LMN Industries,Sales Director,Manufacturing,closed not converted,345-678-9012,michaeljohnson@gmail.com
+Emily,Brown,DEF Group,Marketing Specialist,Retail,working,456-789-0123,emilybrown@def group.com
+Daniel,Lee,PQR Ltd,Product Manager,Technology,open,567-890-1234,daniellee@pqr ltd.com
+Jessica,Wong,GHI Corp,HR Manager,Healthcare,closed converted,678-901-2345,jessicawong@ghi corp.com
+Christopher,Miller,JKL Inc,Sales Executive,Manufacturing,closed not converted,789-012-3456,christophermiller@gmail.com
+Sarah,Taylor,RST Enterprises,Marketing Coordinator,Technology,working,890-123-4567,sarahtaylor@rst enterprises.com
+Matthew,Anderson,MNO Group,Accountant,Finance,open,901-234-5678,matthewanderson@mno group.com
+Olivia,Wilson,UVW Ltd,Software Engineer,Technology,closed converted,012-345-6789,oliviawilson@gmail.com
+William,Martin,OPQ Corp,Project Manager,Manufacturing,closed not converted,123-456-7890,williammartin@opq corp.com
+Emma,Thompson,HIJ Inc,Finance Director,Finance,working,234-567-8901,emmathompson@gmail.com
+David,Garcia,XYZ Corp,Sales Manager,Manufacturing,open,345-678-9012,davidgarcia@gmail.com
+Sophia,Martinez,ABC Inc,IT Specialist,Technology,closed converted,456-789-0123,sophiamartinez@gmail.com
+James,Lopez,DEF Group,Operations Manager,Retail,closed not converted,567-890-1234,jameslopez@gmail.com
+Ella,Hernandez,PQR Ltd,Marketing Analyst,Healthcare,open,678-901-2345,ellahernandez@pqr ltd.com
+Alexander,King,LMN Industries,Finance Manager,Finance,closed converted,789-012-3456,alexanderking@lmn industries.com
